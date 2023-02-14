@@ -1,0 +1,18 @@
+.fimg{
+    width: 100%;
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('../../static/nguy-n-hi-p-maYeMl3xCrY-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#title{
+    font-size: 5rem;
+    letter-spacing: 7px;
+}

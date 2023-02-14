@@ -1,0 +1,62 @@
+.welcome{
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-welcome-div{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.borded-img{
+    height: 100%;
+    width: 40%;
+    border: 8px solid #DF2443;
+    transform: skew(-15deg,0deg);
+    background: url('../../static/nguy-n-hi-p-2rNHliX6XHk-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.inner-welcome-message{
+    width: 40%;
+}
+
+#p-col{
+    color: #DF2443;
+    font-weight: bolder;
+}
+
+#h1-col{
+    font-size: 2.5rem;
+    margin-bottom: 1rem !important;
+}
+
+#p-col1{
+    color:#7A797E;;
+}
+.testmon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.testmon div{
+    width: 40%;
+    text-align: left;
+    margin-top: 0.6rem !important;
+}
+.testmon div p{
+    margin-top: 0.7rem !important;
+    color: #7A797E;
+}
+
+#padd{
+    margin-top: 2.5rem !important;
+}

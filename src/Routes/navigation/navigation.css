@@ -1,0 +1,60 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 15vh;
+}
+
+.logo{
+    position: relative;
+    width: 14rem;
+    height: 5rem;
+}
+.logo img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.navigation-links{
+    display: flex;
+    justify-content: space-between;
+    width: 50rem;
+}
+/* .navigation-links .link{
+    
+    
+} */
+.navigation-links .link a{
+    text-decoration: none;
+    font-size: large;
+    font-weight: 500;
+    padding: 15px 25px !important;
+    border-radius: 35px;
+    color: black;
+    transition: all ease-in-out 0.3s;
+}
+.navigation-links .link a:hover{
+    background-color: #DF2443;
+    color: white;
+}
+
+.become-a-volunteer{
+    width: 100%;
+    height: 25vh;
+    background-color: #DF2443;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.become-a-volunteer div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8rem;
+    width: 55%;
+}
+.become-a-volunteer div h1{
+    color: white;
+    font-weight: bold;
+}

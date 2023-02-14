@@ -1,0 +1,29 @@
+.donate{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url('../../static/nguy-n-hi-p-maYeMl3xCrY-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.donateForm{
+    width: 40%;
+    margin: 3rem 0rem !important;
+    border-radius: 4px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 3px 25px 62px -32px rgba(255,255,255,0.75);
+    -webkit-box-shadow: 3px 25px 62px -32px rgba(255,255,255,0.75);
+    -moz-box-shadow: 3px 25px 62px -32px rgba(255,255,255,0.75);
+}
+.donateForm div{
+    width: 100%;
+    margin-left: 6.5rem !important;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}

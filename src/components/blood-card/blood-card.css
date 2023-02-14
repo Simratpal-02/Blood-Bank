@@ -1,0 +1,25 @@
+
+.blood-card{
+    background: linear-gradient(rgb(223, 36, 67,0.8),rgb(223, 36, 67,0.8)),url('../../static/nguy-n-hi-p-maYeMl3xCrY-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    width: 30%;
+    height: 30rem;
+    z-index: 2;
+    position: relative;
+    top: -8px;
+}
+
+.blood-card div{
+    width: 85%;
+}
+.text-bc{
+    margin: 1.8rem 0rem !important;
+}

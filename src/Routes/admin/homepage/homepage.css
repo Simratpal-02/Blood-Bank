@@ -1,0 +1,11 @@
+.homepage{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.back-div{
+    width: 40% !important;
+    margin: 1rem 0rem !important;
+}

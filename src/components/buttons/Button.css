@@ -1,0 +1,82 @@
+.red-wt-button{
+    background-color: #DF2443;
+    border: none;
+    border-radius: 45px;
+    height: 4.3rem;
+    padding: 8px 45px  !important;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all ease-in-out 0.3s;
+}
+.red-wt-button:hover{
+    transform: scale(1.1);
+}
+
+.red-wt-button-sm{
+    background-color: #DF2443;
+    border: none;
+    border-radius: 45px;
+    height: 3rem;
+    padding: 10px 25px  !important;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all ease-in-out 0.3s;
+}
+.red-wt-button-sm:hover{
+    transform: scale(1.1);
+}
+
+.black-wt-button{
+    background-color: white;
+    border: none;
+    border-radius: 45px;
+    height: 5rem;
+    padding: 10px 25px  !important;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+.black-wt-button:hover{
+    background-color: black;
+    color: white;
+}
+
+.black-wt-button-sm{
+    background-color: white;
+    border: none;
+    border-radius: 45px;
+    height: 3.2rem;
+    padding: 3px 55px  !important;
+    color: black;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+.black-wt-button-sm:hover{
+    background-color: black;
+    color: white;
+}
+
+.wt-black-button-sm{
+    background-color: black;
+    border: none;
+    border-radius: 45px;
+    height: 3.2rem;
+    padding: 3px 55px  !important;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+.wt-black-button-sm:hover{
+    background-color: rgb(220, 108, 108);
+    color: black;
+}

@@ -1,0 +1,9 @@
+.blood-groups{
+    width: 100%;
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem !important;
+}

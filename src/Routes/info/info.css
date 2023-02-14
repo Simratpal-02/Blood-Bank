@@ -1,0 +1,11 @@
+.info{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.space{
+    width: 80%;
+    margin: 2rem 2rem !important;
+}
